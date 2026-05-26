@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "admin_role": "VM_Admin",
+    "vm_dir": "/home/yourusername/vms",
+    "allowed_users": []
+}
